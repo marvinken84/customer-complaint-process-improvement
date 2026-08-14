@@ -57,7 +57,7 @@ The project aims to:
 
 The current process was mapped to understand how complaints move from submission to resolution.
 
-![Current Complaint Process](current-process.png)
+![Current Complaint Process](current-process.png.png)
 
 ---
 
@@ -86,7 +86,7 @@ The proposed process introduces:
 - Management visibility
 - Customer satisfaction measurement
 
-![Proposed Complaint Process](proposed-process.png)
+![Proposed Complaint Process](Customer%20Complaint%20%E2%80%94%20Improved%20Process.jpeg)
 
 ---
 
